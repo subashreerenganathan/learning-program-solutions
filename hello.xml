@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 <message>Conflicting content from master</message>
+=======
+<message>Hello from GitWork</message>
+<info>This is some new content from GitWork</info>
+>>>>>>> GitWork
